@@ -1,0 +1,25 @@
+// "use strict"; 
+// for newer version
+//alert("Hello")
+ // for alert there is differnt syntax so this give error but for browser it works which gentrate a pop up showing hello
+
+
+// Code Readability should be mantained
+
+// for original documentation of javascript use 
+//   https://tc39.es/ecma262/
+
+// also refer mdn for documentation
+
+let num=45
+let username="nisha";
+let flag=true;
+let temp=null;
+let dummy
+
+
+// console.log([typeof num,typeof name,typeof flag,typeof temp ,typeof dummy]);
+console.log(typeof num);
+
+
+
